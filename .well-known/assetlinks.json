@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.demo_link1",
+            "package_name": "com.example.greenwheel_user_app",
             "sha256_cert_fingerprints": [
                 "CB:22:37:D6:17:AD:40:D6:74:F7:17:D2:D7:F2:96:8B:F1:5D:BF:B2:53:32:00:14:A9:0A:7E:E3:EB:A7:86:18"
             ]
